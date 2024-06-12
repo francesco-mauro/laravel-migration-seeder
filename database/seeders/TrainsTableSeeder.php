@@ -28,3 +28,5 @@ class TrainsTableSeeder extends Seeder
         dd($newTrain); 
     }
 }
+
+
